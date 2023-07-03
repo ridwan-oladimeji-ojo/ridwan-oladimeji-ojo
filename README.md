@@ -12,7 +12,3 @@ I'm a [Content Strategist and Content Writer](https://www.linkedin.com/in/-ridwa
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Internship or Junior Level Roles.
 - 📫 You can [view my resume](#) and contact me by sending me a [mail](mailtoridwanoladimejiojo@gmail.com).
-
----
-
-| ------------- | ------------- |
